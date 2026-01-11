@@ -7,7 +7,7 @@ This project focuses on analyzing Adidas sales data to uncover key business insi
 - Jupyter Notebook (Python)
 - SQL
 - Power BI
-- Pandas, NumPy, Matplotlib, Seaborn
+- Pandas, NumPy, Matplotlib, Seaborn.
 
 ## Project Objectives
 - Clean and preprocess sales data
@@ -31,4 +31,5 @@ This project focuses on analyzing Adidas sales data to uncover key business insi
 This project demonstrates practical data analytics skills using Python, SQL, and Power BI, suitable for real-world business analysis and portfolio presentation.
 
 ## Author
+
 Vysakh S Raj
